@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-feedback-widget",
+  "name": "@zeckdude/nextjs-feedback-widget",
   "version": "1.0.0",
   "description": "Create a Feedback Widget for your Next.js site with two steps. The submitted message will be sent to your Slack channel.",
   "author": "Chris Seckler <chrisseckler@gmail.com>",
